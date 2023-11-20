@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "\"*.exe\"": "\"executable\"",
+        "string_ptr.h": "c",
+        "scrnsave.h": "c"
+    }
+}
